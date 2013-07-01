@@ -1,0 +1,75 @@
+exit
+exit
+cd code
+ls
+mkdir labs
+cd labs
+touch index.html
+touch example.js
+cd ../pub
+ls
+rm -rf js
+ls -al
+ls
+rm -rf js
+ls
+ls
+rm -rf js
+cd ..
+ls
+ls -al
+rm -rf .repl
+ls
+ls -al
+ls -al
+rm utils.cljs
+ls
+ls -al
+rm -rf out
+ls
+ls -al
+exit
+exit
+sget
+wget
+wget srufaculty.sru.edu/david.dailey/svg/simpleTemplate.svgs
+wget http://srufaculty.sru.edu/david.dailey/svg/simpleTemplate.svgs
+wget srufaculty.sru.edu/david.dailey/svg/simpleTemplate.svgs
+wget http://srufaculty.sru.edu/david.dailey/svg/simpleTemplate.svgs
+man wget
+Resolving srufaculty.sru.edu (srufaculty.sru.edu)... 205.149.70.61
+exit
+ls
+rm *.log
+ls
+rm Skype
+rm -rf Skype
+ls
+cd code
+ls
+rm -rf clj-server
+ls
+cd svg-test
+ls
+cd pub
+ls
+cd js
+ls
+rm ptf.*
+ls
+rm index.js
+ls
+rm browser-connect.js
+ls
+rm -rf goog
+rm prf clojure
+rm -rf clojure
+rm -rf cljs
+ls
+cd ..
+cd ..
+cd pub
+ls
+cd js
+ls
+nano index.js
